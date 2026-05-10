@@ -41,6 +41,7 @@ cd Linux-system-time-monitor
 ```bash
 chmod +x install.sh
 sudo ./install.sh
+
 ```
 *(This will safely copy the script to `/usr/local/bin/stmon` and make it globally executable).*
 
