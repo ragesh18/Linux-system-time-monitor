@@ -34,7 +34,7 @@ You can easily install `stmon` system-wide to execute it from anywhere in your e
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/ragesh18/Linux-system-time-monitor.git
-cd linux-screentime
+cd Linux-system-time-monitor
 ```
 
 ### 2. Run the Install Script
